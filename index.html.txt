@@ -16,13 +16,13 @@
      <ul>
          <li>Devops</li>
          <li>Designing</li>
-         <Calisthenics</li>
+         <li>Calisthenics</li>
      </ul>
 
      <h2>Contact Me</h2>
      <form action="/submit" method="post">
          <label for="name">Name:</label>
-         <input type="text" ID="name" name="name"> 
+         <input type="text" id="name" name="name"> 
          <input type="submit" value="Submit">
      </form>
 </body>
