@@ -27,3 +27,7 @@
      </form>
 </body>
 </html>
+git add index.html
+git commit -m "Add index.html file"
+git push origin main
+
