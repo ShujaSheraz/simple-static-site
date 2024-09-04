@@ -3,18 +3,18 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Initializing...</title>
+     <title>Shuja Sheraz's Web Page</title>
 </head>
 <body>
-     <h1> HELLO WORLD!</h1>
-     <p> Welcome to my web page. This is a simple example of HTML structure and my first ever experience.</p>
+     <h1>Hello, World!</h1>
+     <p>Welcome to my web page. This is a simple example of HTML structure and my first experience with web development.</p>
 
      <h2>Personal Background</h2>
-     <p> My name is Shuja Sheraz and I'm learning the fundamentals of Devops and SSMA as a side hobby, Here's a little bit more about me.</p>
+     <p>My name is Shuja Sheraz, and I'm learning the fundamentals of DevOps and SSMA as a side hobby. Here's a little more about me.</p>
 
-     <h3>Interests </h3>
+     <h3>Interests</h3>
      <ul>
-         <li>Devops</li>
+         <li>DevOps</li>
          <li>Designing</li>
          <li>Calisthenics</li>
      </ul>
@@ -22,7 +22,7 @@
      <h2>Contact Me</h2>
      <form action="/submit" method="post">
          <label for="name">Name:</label>
-         <input type="text" id="name" name="name"> 
+         <input type="text" id="name" name="name">
          <input type="submit" value="Submit">
      </form>
 </body>
